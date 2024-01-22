@@ -1,9 +1,9 @@
 *{
-    margin: 5px;
-    padding: 5px;
+    margin: 7px;
+    padding: 7px;
 }
 body{
-        background-image: linear-gradient(to right, rgb(238, 216, 216) ,rgb(245, 193, 202), rgb(214, 222, 125));
+        background-image: white
       }
 
 nav{
